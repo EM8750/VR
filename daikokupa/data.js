@@ -214,7 +214,7 @@ var APP_DATA = {
         }
       ],
 	  {
-      "id": "4-gt3",
+      "id": "5-gt3",
       "name": "911 GT3",
       "levels": [
         {
@@ -268,7 +268,7 @@ var APP_DATA = {
       ]
     },
     {
-      "id": "5-r33",
+      "id": "6-r33",
       "name": "R33",
       "levels": [
         {
@@ -310,7 +310,7 @@ var APP_DATA = {
       ]
     },
     {
-      "id": "6-s2k",
+      "id": "4-s2k",
       "name": "S2000",
       "levels": [
         {
